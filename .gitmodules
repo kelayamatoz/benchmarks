@@ -1,0 +1,9 @@
+[submodule "3d_resnet"]
+	path = 3d_resnet
+	url = git@github.com:kenshohara/3D-ResNets-PyTorch.git
+[submodule "c3d"]
+	path = c3d
+	url = git@github.com:DavideA/c3d-pytorch.git
+[submodule "i3d"]
+	path = i3d
+	url = git@github.com:piergiaj/pytorch-i3d.git
